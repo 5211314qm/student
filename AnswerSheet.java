@@ -1,4 +1,4 @@
 public class AnswerSheet{
     private int id;
-    private String name;
+    private String name;//姓名
 }
